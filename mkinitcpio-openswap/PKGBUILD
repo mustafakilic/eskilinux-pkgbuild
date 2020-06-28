@@ -1,4 +1,5 @@
-# Maintainer: mustafa kılıç
+# Maintainer: Erik Dubois <erik.dubois@gmail.com>
+# Katkıcı: mustafa kılıç
 pkgname=mkinitcpio-openswap
 pkgver=0.1.0
 pkgrel=3
